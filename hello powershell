@@ -3,4 +3,6 @@ Write-Host "this is the first program in the PowerShell"
 $a = 10
 $b = 20
 $c = $a+$b
+$d = $b - $a
 Write-Host "The value of c is" $c
+Write-Host "difference of 2 integers is:" $d
