@@ -1,2 +1,6 @@
 # this is the first program in the PowerShell
 Write-Host "this is the first program in the PowerShell"
+$a = 10
+$b = 20
+$c = $a+$b
+Write-Host "The value of c is" $c
